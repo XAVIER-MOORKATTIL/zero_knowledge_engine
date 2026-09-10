@@ -1,0 +1,9 @@
+build/
+*.o
+*.db
+test_protocol
+test_memtable
+test_sstable
+test_query_engine
+benchmark
+harness
